@@ -1,6 +1,6 @@
 import requests
 import re
-from pathlib import Path
+@REM from pathlib import Path
 
 #might not work on cmd
 class fontcolors:
